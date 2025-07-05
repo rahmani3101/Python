@@ -31,10 +31,10 @@ The repo includes these notebooks focusing on different core topics:
 
 ## 🚀 Quick Start
 
-    Clone this repository
+Clone this repository
 
-git clone https://github.com/rahmani3101/Python_practise.git
-cd Python_practise
+    git clone https://github.com/rahmani3101/Python_practise.git
+    cd Python_practise
 
 Activate your virtual environment (if used).
 
