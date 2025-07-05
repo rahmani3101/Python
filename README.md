@@ -32,7 +32,7 @@ The repo includes these notebooks focusing on different core topics:
 ## 🚀 Quick Start
 
     Clone this repository
-'''bash
+
 git clone https://github.com/rahmani3101/Python_practise.git
 cd Python_practise
 
@@ -68,22 +68,14 @@ Launch notebooks:
 
 Mohammad Asad Rahmani
 
-    Pre-final year B.Tech CSE (AI) @ Techno India University
+    Final year B.Tech CSE (AI) student at Techno India University
 
     Passionate about Data Science, DevOps, Cloud, AI/ML, Java
 
     GitHub: @rahmani3101
+    mail : asadrahmani3101@gmail.com
 
 Happy coding! Feel free to open issues or contribute new notebooks. 😊
 
 
 ---
-
-### 🔧 Tips & Enhancements
-
-- **Add a Setup Script**: Consider including a `requirements.txt` for dependencies like `jupyter`, `numpy`, or `pandas`.
-- **Visuals**: You could embed screenshots or example outputs from notebooks.
-- **License & Badges**: Link to your preferred license and add CI/testing badges if you incorporate tests later.
-
-Let me know if you’d like help customizing it further—like adding environment files, examples, or CI badges!
-::contentReference[oaicite:0]{index=0}
